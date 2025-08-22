@@ -14,7 +14,8 @@ This repository contains simple example projects to learn and explore different 
 03_litellm_openai_agent/
   └── main.py
 ```
-sreenshort- <img width="1684" height="912" alt="image" src="https://github.com/user-attachments/assets/03bcf95f-97ae-458d-8bf2-38a7a16d93a7" />
+# sreenshort-
+<img width="1684" height="912" alt="image" src="https://github.com/user-attachments/assets/03bcf95f-97ae-458d-8bf2-38a7a16d93a7" />
 
 
 ---
@@ -143,4 +144,5 @@ pip install -r requirements.txt
 * Add more examples (LangChain, Agentic SDK, Swarm advanced examples).
 * Explore agent orchestration patterns.
 * Experiment with tool calling and function execution in agents.
+
 
