@@ -145,4 +145,19 @@ pip install -r requirements.txt
 * Explore agent orchestration patterns.
 * Experiment with tool calling and function execution in agents.
 
+## 🤝 Contribution
+I welcome contributions! Feel free to submit issues or pull requests.
+
+## 📢 Connect
+
+📧 Email: nanum3773@gmail.com
+
+💼 LinkedIn: Anum Rajput
+
+💻 GitHub:  Anum Rajput
+
+🐦 X (Twitter): @Anumrajput88
+
+## ⭐ Star this repository if you find it inspiring!
+Happy coding!
 
